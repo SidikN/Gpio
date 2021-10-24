@@ -1,1 +1,30 @@
 
+{
+  "name": "Gpio",
+  "version": "1.0.0",
+  "description": "Gpio for ESP32",
+  "keywords": "gpio, object oriented programming",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/SidikN/gpio.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Sidik Nurcahyo",
+      "email": "sidiknur@yahoo.com",
+      "url": "https://www.sidik-nur/contact"
+    },
+    {
+      "name": "Andrew Smith",
+      "email": "me@andrew-smith.com",
+      "url": "https://www.andrew-smith/contact",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://www.helloworld.org/",
+  "frameworks": "*",
+  "platforms": "*"
+}
