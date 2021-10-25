@@ -1,5 +1,5 @@
 {
-  "name": "Gpio",
+  "name": "Gpio-ESP32",
   "version": "1.0.0",
   "description": "Gpio for ESP32",
   "keywords": "gpio, object oriented programming",
